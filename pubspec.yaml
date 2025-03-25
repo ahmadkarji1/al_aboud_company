@@ -1,0 +1,111 @@
+name: alaboud_company
+description: "A new Flutter project."
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.1.0
+  cupertino_icons: ^1.0.8
+  provider: ^6.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: ".dart_tool/assets/kitchen/Screenshot 2025-03-05 132959.png"
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+  # Assets section
+  assets:
+    - .dart_tool/assets/images/skhan.jpg
+    - .dart_tool/assets/elc/بلاطة ليد الجوهرة.jpg
+    - .dart_tool/assets/elc/جكة راوتر.jpg
+    - .dart_tool/assets/elc/رافع جهد.jpg
+    - .dart_tool/assets/elc/سخان مياه كهربائي.jpg
+    - .dart_tool/assets/elc/سنترفيش الحرامي.jpg
+    - .dart_tool/assets/elc/قاطع حماية الكترونية.jpg
+    - .dart_tool/assets/elc/كابلات ازمير الحديثة.jpg
+    - .dart_tool/assets/elc/لقاطات راس التمساح.jpg
+    - .dart_tool/assets/elc/لقاطات كهربائية 100 فولت.jpg
+    - .dart_tool/assets/elc/لمبة الجوهرة الشهيرة.jpg
+    - .dart_tool/assets/elc/لمبة حمام حديثة.jpg
+    - .dart_tool/assets/elc/لمبة لقاطة الحديثة.jpg
+    - .dart_tool/assets/elc/لمبة وجه كريستال محجر.jpg
+    - .dart_tool/assets/elc/ليد انارة سيليكون.jpg
+    - .dart_tool/assets/elc/ليد عدسة مكبر.jpg
+    - .dart_tool/assets/elc/محرك غسالة الجوهرة.jpg
+    - .dart_tool/assets/elc/محول جهد .jpg
+    - .dart_tool/assets/elc/مراوح جينسون.jpg
+    - .dart_tool/assets/elc/مكيف الجوهرة الحديث.jpg
+    - .dart_tool/assets/home/انترفون.jpg
+    - .dart_tool/assets/home/جرس الجوهرة.jpg
+    - .dart_tool/assets/home/دهان الجوهرة.jpg
+    - .dart_tool/assets/home/شفاط هوائي.jpg
+    - .dart_tool/assets/home/شوفو غاز.jpg
+    - .dart_tool/assets/home/صوبة الجوهرة.jpg
+    - .dart_tool/assets/home/عازل الاسطج.jpg
+    - .dart_tool/assets/home/علبة سرعة للغسالات.jpg
+    - .dart_tool/assets/home/غسالة الجوهرة.jpg
+    - .dart_tool/assets/home/فلتر مياه.jpg
+    - .dart_tool/assets/home/قازورة مياه.jpg
+    - .dart_tool/assets/home/قصدير صوب.jpg
+    - .dart_tool/assets/home/مانعة خاصة للغسالات.jpg
+    - .dart_tool/assets/home/مسامير فولاذ.jpg
+    - .dart_tool/assets/home/مشرط.jpg
+    - .dart_tool/assets/home/مضخة مياه الجوهرة.jpg
+    - .dart_tool/assets/home/مضخة  مياه.jpg
+    - .dart_tool/assets/images/بطاريات الجوهرة.jpg
+    - .dart_tool/assets/images/بطاريات جيل.jpg
+    - .dart_tool/assets/images/دارة فصل طاقة شمسية.jpg
+    - .dart_tool/assets/kitchen/475508222_1112568627234994_8200965451147588191_n.jpg
+    - .dart_tool/assets/water/حنفية الجوهرة.jpg
+    - .dart_tool/assets/water/حنفية راسين.jpg
+    - .dart_tool/assets/water/خزان سعد بلاست.jpg
+    - .dart_tool/assets/water/خلاط مياه.jpg
+    - .dart_tool/assets/water/ريكارد بلاست.jpg
+    - .dart_tool/assets/water/صنبور مياه بلاستيك.jpg
+    - .dart_tool/assets/water/لولب مياه.jpg
+    - .dart_tool/assets/water/مصرف مياه .jpg
+    - .dart_tool/assets/water/مصرف مياه طويل.jpg
+    - .dart_tool/assets/water/وصلة مياه.jpg
+    - .dart_tool/assets/elc/وصلة كهرباء باور بلاس.jpg
+    - .dart_tool/assets/kitchen/369692775_793293339162526_5496493608221056920_n.jpg
+    - .dart_tool/assets/kitchen/Screenshot 2025-03-05 132959.png
+
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
